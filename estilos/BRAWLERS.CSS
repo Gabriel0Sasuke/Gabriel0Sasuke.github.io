@@ -1,0 +1,157 @@
+body {
+    padding: 0px;
+    margin: 0px;
+    background-color: rgb(10, 9, 9);
+}
+header {
+    width: 100%;
+    height: 150px;
+    background-image: url(../imagens/brawlstarslogo.png);
+    background-size: 15% 150px;
+background-repeat: no-repeat;
+background-position-x: center;
+background-color: rgb(10, 9, 9);
+position: absolute;
+}
+nav {
+    width: 100%;
+    height: 30px;
+    position: absolute;   
+     margin-top: 150px;
+    background-color: black;
+    border-top: 2px solid red;
+    border-bottom: 2px solid red;
+}
+nav a{
+    padding-left: 31%;
+    font-size: 20px;
+    color: yellow;
+    font-family: Aldo-the-Apache;
+}
+nav a:hover {
+    color: red;
+    transition: 0.5s;
+}
+@font-face {
+    font-family: "Aldo-the-Apache";
+    font-style: normal;
+    font-weight: normal;
+    src: url("../fontes/AldotheApache.ttf");
+}
+img {
+    width: 100%;
+    height: 200px;
+}
+#um {
+width: 16%;
+height: 200px;
+margin-top: 200px;
+position: absolute;
+border: 2px solid white;
+margin-left: 13%;
+}
+#um:hover {
+    border: 2px solid red;
+}
+ 
+#dois {
+width: 16%;
+height: 200px;
+margin-top: 200px;
+position: absolute;
+border: 2px solid white;
+margin-left: 42%; 
+}
+#dois:hover {
+    border: 2px solid red;
+}
+#tres {
+    width: 16%;
+    height: 200px;
+    margin-top: 200px;
+    position: absolute;
+    border: 2px solid white;
+    margin-left: 71%; 
+}
+#tres:hover {
+    border: 2px solid red;
+}
+#quatro {
+width: 16%;
+height: 200px;
+margin-top: 450px;
+position: absolute;
+border: 2px solid white;
+margin-left: 13%;
+}
+#quatro:hover {
+    border: 2px solid red;
+}
+#cinco {
+width: 16%;
+height: 200px;
+margin-top: 450px;
+position: absolute;
+border: 2px solid white;
+margin-left: 42%; 
+}
+#cinco:hover {
+    border: 2px solid red;
+}
+#seis {
+width: 16%;
+ height: 200px;
+margin-top: 450px;
+position: absolute;
+border: 2px solid white;
+margin-left: 71%; 
+}
+#seis:hover {
+    border: 2px solid red;
+}
+#sete {
+width: 16%;
+height: 200px;
+margin-top: 700px;
+position: absolute;
+border: 2px solid white;
+margin-left: 13%;
+}
+#sete:hover{
+    border: 2px solid red;
+}
+#oito {
+width: 16%;
+height: 200px;
+margin-top: 700px;
+position: absolute;
+border: 2px solid white;
+margin-left: 42%; 
+}
+#oito:hover {
+    border: 2px solid red;
+}
+#nove {
+width: 16%;
+height: 200px;
+margin-top: 700px;
+position: absolute;
+border: 2px solid white;
+margin-left: 71%; 
+}
+#nove:hover {
+    border: 2px solid red;
+}
+footer {
+    width: 100%;
+    height: 20px;
+    margin-top: 910px;
+    position: absolute;
+    text-align: center;
+    background-color: rgb(10, 9, 9);
+    border-top: 2px solid red;
+    color: white;
+}
+#certo {
+    color: red;
+}
