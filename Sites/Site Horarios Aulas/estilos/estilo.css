@@ -1,0 +1,113 @@
+table{
+    border: 2px solid black; 
+   width:99%;
+   height:97%;
+   position: absolute;
+}
+tr,td{
+    border: 2px solid black;
+}
+#aba{
+   text-align:center;
+    background-color:red;
+}
+#intervalo{
+    text-align:center;
+    background-color:orange;
+}
+#semaula {
+    background-color:gray;
+    text-align:center;
+}
+#apse {
+    text-align:center;
+    background-color:rgb(243, 178, 58);
+}
+#ddq {
+    text-align:center;
+    background-color:green;
+}
+#artes {
+    text-align:center;
+    background-color:red;
+}
+#port {
+    text-align:center;
+    background-color:rgb(5, 68, 5);
+}
+#quim {
+    text-align:center;
+    background-color:palegoldenrod;
+}
+#edf {
+    text-align:center;
+    background-color:lightblue;
+}
+#fil {
+    text-align:center;
+    background-color:lightgreen;
+}
+#fisica {
+    text-align:center;
+    background-color:purple;
+}
+#ingles {
+    text-align:center;
+    background-color:blue;
+}
+#tpaf {
+    text-align:center;
+    background-color:orangered;
+}
+#tpad {
+    text-align:center;
+    background-color:rgb(180, 180, 0);
+}
+#lic {
+    text-align:center;
+    background-color:rgb(57, 53, 53);
+}
+#fif {
+    text-align:center;
+    background-color:orangered;
+}
+#emat {
+    text-align:center;
+    background-color:rgb(70, 3, 70);
+}
+#ecn {
+    text-align:center;
+    background-color:yellowgreen;
+}
+#mat {
+    text-align:center;
+    background-color:brown;
+}
+#hist {
+    text-align:center;
+    background-color:gainsboro;
+}
+#bdg {
+    text-align:center;
+    background-color:cyan;
+}
+#pwd {
+    text-align:center;
+    background-color:gold;
+}
+#pwq {
+    text-align:center;
+    background-color:rgb(245, 103, 93);
+}
+#bde {
+    text-align:center;
+    background-color:rgb(134, 88, 3);
+}
+#apsl {
+    text-align:center;
+    background-color:rgb(2, 78, 78);
+}
+#prat {
+    text-align:center;
+    background-color:rgb(95, 74, 74);
+}

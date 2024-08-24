@@ -1,0 +1,34 @@
+.bhub {
+    display: flex;
+    width: 20vh;
+    height: 4.5vh;
+    background-color: white;
+    border-radius: 10px;
+    position: absolute;
+    margin-top: 4vh;
+    margin-left: 4vh;
+    text-decoration: none;
+    color: red;
+    font-size: 110%;
+    align-items: center;
+    justify-content: center;
+    font-family: Impact;
+    transition: 0.2s ease-in-out;
+}
+.bhub img{
+ width: 4vh;
+ height: 4vh;
+}
+.bhub button{
+    visibility: hidden;
+}
+@font-face {
+    font-family: "Impact";
+    font-style: normal;
+    font-weight: normal;
+    src: url("impact.ttf");
+}
+.bhub:hover {
+    transform: scale(1.05);
+    transition: 0.2s ease-in-out;
+}
