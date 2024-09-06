@@ -1,0 +1,22 @@
+/*Tamanhos de Tela*/
+
+/*1280px para desktops, notebooks com monitor widescreen*/
+@media screen and (max-width:1200px){
+
+}
+/*960px para tablets no formato paisagem e alguns monitores mais antigos*/
+@media screen and (max-width:960px) {
+    
+}
+/*768px para tablets no formato retrato, como o ipad*/
+@media screen and (max-wdith:768px){
+
+}
+/*480px para smartphones no formato paisagem com tela pequena*/
+@media screen and (max-width:480px){
+
+}
+/*320px para smartphones no formato retrato com tela pequena*/
+@media screen and (max-width:320px){
+    
+}

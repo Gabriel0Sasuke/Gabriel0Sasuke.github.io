@@ -1,8 +1,8 @@
 .bhub {
     display: flex;
-    width: 24vh;
+    width: 20vh;
     height: 4.5vh;
-    background-color: white;
+    background-color: black;
     border-radius: 10px;
     position: absolute;
     margin-top: 4vh;
